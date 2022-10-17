@@ -36,3 +36,13 @@
     font-weight: 600;
 
 }
+
+.medotel
+{
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1.3;
+    text-decoration: underline;
+
+    color: #fff;
+}
